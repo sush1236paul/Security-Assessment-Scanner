@@ -1,0 +1,2 @@
+# No external Python dependencies required
+# Requires Nmap to be installed on the system
